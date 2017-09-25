@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{123C9B7A-1ED3-4E01-80F0-96C14807D391}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwitchButton PreferredExecutionTarget="Android.10.1&quot; Marshmallow (6.0.0) XHDPI Tablet" />
+  <MonoDevelop.Ide.Workbench />
+  <MultiItemStartupConfigurations />
+</Properties>
